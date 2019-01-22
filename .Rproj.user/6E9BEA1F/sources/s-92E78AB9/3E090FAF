@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548192483550.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3E090FAF",
+    "lastKnownWriteTime" : 1,
+    "last_content_update" : 1548192483550,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CB48C544",
+        "caption" : "cup",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cup&cache_key=CB48C544",
+        "displayedObservations" : 11,
+        "environment" : "",
+        "object" : "cup",
+        "preview" : 0,
+        "totalObservations" : 11,
+        "variables" : 2
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545415904046.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "97841DDA",
+    "lastKnownWriteTime" : 1548192837,
+    "last_content_update" : 1548192837094,
+    "path" : "C:/Users/Robert/Desktop/Gov 1005/HockeyNet/scratch.R",
+    "project_path" : "scratch.R",
+    "properties" : {
+        "cursorPosition" : "220,25",
+        "scrollLine" : "205",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

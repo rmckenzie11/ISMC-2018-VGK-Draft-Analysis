@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548191733711.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3D335A6A",
+    "lastKnownWriteTime" : 5207905154488086577,
+    "last_content_update" : 1548191733711,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3E2CA090",
+        "caption" : "veg",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=veg&cache_key=3E2CA090",
+        "displayedObservations" : 31,
+        "environment" : "",
+        "object" : "veg",
+        "preview" : 0,
+        "totalObservations" : 31,
+        "variables" : 50
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
